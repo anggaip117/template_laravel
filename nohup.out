@@ -1,0 +1,16 @@
+Laravel development server started: <http://192.168.10.188:8000>
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49713 [200]: /sielis_folder/css/style.css
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49715 [200]: /fusion/js/jquery-3.6.0.min.js
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49714 [200]: /fusion/js/fusioncharts.js
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49716 [200]: /fusion/js/themes/fusioncharts.theme.fusion.js
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49718 [200]: /bootstrap/js/bootstrap.bundle.min.js
+[Tue Dec 21 10:41:26 2021] 192.168.10.34:49717 [200]: /fusion/js/jquery-fusioncharts.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49719 [200]: /fusion/function/beranda.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49720 [200]: /fusion/function/changemenu.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49721 [200]: /sielis_folder/js/currency.min.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49722 [200]: /sielis_folder/js/popper.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49723 [200]: /sielis_folder/js/bootstrap.min.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49724 [200]: /sielis_folder/js/main.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49726 [200]: /favicon.ico
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49727 [200]: /fusion/js/fusioncharts.charts.js
+[Tue Dec 21 10:41:27 2021] 192.168.10.34:49728 [200]: /fusion/js/fusioncharts.excelexport.js
